@@ -53,7 +53,7 @@ A continuación, selecciona sólo los campos que nos interesan (y que podemos ca
 Después, reordena las naciones para un proyecto previo que tenemos en marcha. Se puede aprovechar para el orden que necesite cada uno. Acaba generando un archivo excel normalizando el nombre de archivo a la fecha del día.
 
 ## ECDCcovid19TOJUPYTER.ipynb (EN)
-EDCcovid19TOJUPYTER.ipynb' is the transformation of ECDCTables into jupiter notebooks. It adds two extra tables to represent in real time the evolution of the selected metrics.
+`EDCcovid19TOJUPYTER.ipynb` is the transformation of ECDCTables into jupiter notebooks. It adds two extra tables to represent in real time the evolution of the selected metrics.
 
 ## ECDCcovid19TOJUPYTER.ipynb (ES)
 `ECDCcovid19TOJUPYTER.ipynb` es la transformación de ECDCTables en cuaderno jupyter. Añade dos tablas extra para representar en tiempo real la evolución de las métricas seleccionadas.
