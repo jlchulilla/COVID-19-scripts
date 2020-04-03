@@ -15,7 +15,7 @@ In order to use more than the python base, we will need access to your libraries
 
 IMPORTANT: TO ADD MODULES TO PYTHON3, IN LINUX YOU HAVE TO USE PIP3. IN WINDOWS, IF WE HAVE ONLY INSTALLED PYTHON, PIP
 
-Then, to install pandas, in windows or linux the command is: `$pip3 install pandas` (`pip install pandas` in windows)
+Then, to install pandas, in windows or linux the command is: `$pip3 install pandas` (`pip install pandas` in windows). The same applies to `numpy`, `jupyter`, `matplotlib` and `datetime`. 
 
 ## Introducción (ES)
 Este proyecto es un simple almacén de scripts python creados para tratar los datos sobre el COVID-19. Dado que la mayoría de las fuentes no se ofrecen para ser descargadas de forma tabulada, o dado que las tablas no se ofrecen en formatos, el objetivo es ir subiendo scripts que ayuden a ahorrar tiempo a los que quieran acceder a los datos. Cortesía de www.onlineandoffline.com
@@ -30,7 +30,7 @@ Para poder emplear algo más que la base de python, necesitaremos acceso a sus b
 
 IMPORTANTE: PARA AÑADIR MÓDULOS A PYTHON3, EN LINUX HAY QUE EMPLEAR PIP3. EN WINDOWS, SI SOLO HEMOS INSTALADO PYTHON, BASTA CON PIP
 
-Después, para instalar pandas, en windows o linux el comando es: `$pip3 install pandas (pip install pandas en windows)`
+Después, para instalar pandas, en windows o linux el comando es: `$pip3 install pandas (pip install pandas en windows)`. Lo mismo aplica para `numpy`, `jupyter`, `matplotlib` y `datetime` . 
 
 ## Contact (EN)
 If you have any questions, please contact us using github, at twitter.com/Poliorcetes or www.linkedin.com/in/jlchulilla/
@@ -52,8 +52,8 @@ A continuación, selecciona sólo los campos que nos interesan (y que podemos ca
 
 Después, reordena las naciones para un proyecto previo que tenemos en marcha. Se puede aprovechar para el orden que necesite cada uno. Acaba generando un archivo excel normalizando el nombre de archivo a la fecha del día.
 
+## ECDCcovid19TOJUPYTER.ipynb (EN)
+EDCcovid19TOJUPYTER.ipynb' is the transformation of ECDCTables into jupiter notebooks. It adds two extra tables to represent in real time the evolution of the selected metrics.
 
-
-
-
-
+## ECDCcovid19TOJUPYTER.ipynb (ES)
+`ECDCcovid19TOJUPYTER.ipynb` es la transformación de ECDCTables en cuaderno jupyter. Añade dos tablas extra para representar en tiempo real la evolución de las métricas seleccionadas.
