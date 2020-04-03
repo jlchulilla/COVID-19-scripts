@@ -30,7 +30,7 @@ Para poder emplear algo más que la base de python, necesitaremos acceso a sus b
 
 IMPORTANTE: PARA AÑADIR MÓDULOS A PYTHON3, EN LINUX HAY QUE EMPLEAR PIP3. EN WINDOWS, SI SOLO HEMOS INSTALADO PYTHON, BASTA CON PIP
 
-Después, para instalar pandas, en windows o linux el comando es: $pip3 install pandas (pip install pandas en windows)
+Después, para instalar pandas, en windows o linux el comando es: `$pip3 install pandas (pip install pandas en windows)`
 
 ## Contact (EN)
 If you have any questions, please contact us using github, at twitter.com/Poliorcetes or www.linkedin.com/in/jlchulilla/
