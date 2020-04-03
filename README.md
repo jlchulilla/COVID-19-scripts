@@ -26,7 +26,7 @@ Personalmente, recomiendo Windows Subsystem Linux porque en un entorno linux hay
 
 Todos los scripts que se van a publicar aquí están creados en python3. En windows no es un problema, pero en linux tendremos que instalar o actualizar python3 por separado.
 
-Para poder emplear algo más que la base de python, necesitaremos acceso a sus bibliotecas. Para eso, la mejor opción es Pip. Para instalarla en windows: https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/ ; para instalarla en un derivado de Debian: $sudo apt-get install python3-pip
+Para poder emplear algo más que la base de python, necesitaremos acceso a sus bibliotecas. Para eso, la mejor opción es Pip. Para instalarla en windows: https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/ ; para instalarla en un derivado de Debian: `$sudo apt-get install python3-pip`
 
 IMPORTANTE: PARA AÑADIR MÓDULOS A PYTHON3, EN LINUX HAY QUE EMPLEAR PIP3. EN WINDOWS, SI SOLO HEMOS INSTALADO PYTHON, BASTA CON PIP
 
